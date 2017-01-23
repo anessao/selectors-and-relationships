@@ -64,7 +64,8 @@ a.disabled {
 
 /*Elements with a class of promo should have bold text that is also colored gold.*/
 
-.promo {
+.promo,
+.promo span {
 	font-weight: bold;
 	color: gold;
 }
